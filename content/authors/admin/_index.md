@@ -51,6 +51,11 @@ interests:
   - Skiing
   - Sleeping
 
+test:
+  - a
+  - b
+  - c
+
 # education:
 #   - area: PhD Artificial Intelligence
 #     institution: Stanford University
