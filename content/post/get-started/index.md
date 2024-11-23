@@ -24,7 +24,7 @@ Welcome! 👋
 
 ## Overview
 
-<img src='../images/R-C.jpg' style='width:auto;'>
+<img src='../images/owl.png' style='width:auto;'>
 
 1. This is the test page
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a *no-code solution (write in Markdown and customize with YAML parameters)* and having **flexibility to later add even deeper personalization with HTML and CSS**
